@@ -19,3 +19,5 @@ class StandardResponse(BaseModel):
 	success: bool
 	message: str
 	data: dict
+
+#additional schemas can be defined here as needed
